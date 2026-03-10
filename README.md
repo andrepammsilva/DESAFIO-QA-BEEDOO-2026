@@ -25,3 +25,15 @@ Repositório criado para a participação no Desafio 2026 | Analista de Qualidad
     
     Segurança e Confiabilidade: Garantir que o resultado do processo seja válido.
 
+
+- Qual você acredita ser o objetivo da aplicação?
+  Gestão de crusos criar, ler e deletar os mesmos.
+
+- Quais são os principais fluxos disponíveis?
+  Cadastrar curso.
+  Listar cursos cadastrados.
+  Deletar curso cadastrado.
+
+- Quais pontos do sistema você considera mais críticos para teste?
+  Validação do formulário de cadastro, obrigação de campos críticos, limite de caracteres e tipos de dados permitidos.
+  Validação da exclusão dos cursos cadastrados. 
