@@ -39,4 +39,8 @@ Repositório criado para a participação no Desafio 2026 | Analista de Qualidad
   Validação da exclusão dos cursos cadastrados. 
 
   Link google drive edivencias - https://drive.google.com/drive/folders/1hajzzAFdvDaWcAwqE_eNlw-pv0hTtAEZ?usp=drive_link
+
   Link planilha - https://docs.google.com/spreadsheets/d/1qICKXxRDdgaXc8JJg5CpgbyoLjmKTZB6n944QQdYdh4/edit?usp=sharing
+
+  Link relatório bugs - https://docs.google.com/spreadsheets/d/1702DbWRWU1UN4hpL6aADFd_5Lldjj7TI83JBz1_lFiI/edit?usp=sharing
+  
